@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Sep 24 15:20:57 CST 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=ServiceRegistryNode.jar
+manifest.mergeall=true
+manifest.mainclass=rgscenter.domain.ServiceRegistryNode
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
